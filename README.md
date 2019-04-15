@@ -2,8 +2,7 @@
 ## About
 This is an API for restaurants to be able to update their menu 
 ## Features
-With this API;
-- You can:
+With this API you can:
 1) Get a menu section by id
 2) Get all menu sections 
 3) Add a new menu section 
@@ -20,7 +19,7 @@ Tools used for this API are;
 # Running the application
 To run this application, clone the repository on your local machine and execute the following command.
 ```sh
-    $ cd music_service
+    $ cd restaurant
     $ virtualenv virtenv
     $ source virtenv/bin/activate
     $ pip install -r requirements.txt
