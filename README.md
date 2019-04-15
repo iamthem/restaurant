@@ -17,7 +17,7 @@ Tools used for this API are;
 - Use Python 3.x.x+
 - Use Django 2.x.x+
 # Running the application
-To run this application, clone the repository on your local machine and execute the following command.
+To run this application, clone the repository on your local machine and execute:
 ```sh
     $ cd restaurant
     $ virtualenv virtenv
